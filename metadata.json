@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Face Attendance",
+  "description": "An AI-powered student attendance system using Gemini-3 vision to identify enrolled students via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
